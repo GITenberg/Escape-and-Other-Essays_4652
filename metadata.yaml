@@ -1,0 +1,30 @@
+_repo: Escape-and-Other-Essays_4652
+creator:
+  author:
+    agent_name: Benson, Arthur Christopher
+    aliases:
+    - Benson, A. C. (Arthur Christopher)
+    - Carr, Christopher
+    birthdate: 1862
+    deathdate: 1925
+    gutenberg_agent_id: '1486'
+    url: http://www.gutenberg.org/2009/agents/1486
+    wikipedia: http://en.wikipedia.org/wiki/A._C._Benson
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4652'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'PR'
+tableOfContents: Escape — Literature and life — The new poets — Walt Whitman — Charm
+  — Sunset — The house of Pengersick — Villages — Dreams — The visitant — That other
+  one — Schooldays — Authorship — Herb moly and heartsease — Behold, this dreamer
+  cometh
+title: Escape, and Other Essays
+url: http://www.gutenberg.org/ebooks/4652
