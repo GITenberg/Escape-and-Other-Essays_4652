@@ -1,5 +1,5 @@
 _repo: Escape-and-Other-Essays_4652
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,6 +28,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Essays'
 - !lcc 'PR'
+- GITenberg
 tableOfContents: Escape — Literature and life — The new poets — Walt Whitman — Charm
   — Sunset — The house of Pengersick — Villages — Dreams — The visitant — That other
   one — Schooldays — Authorship — Herb moly and heartsease — Behold, this dreamer
